@@ -1,6 +1,6 @@
 # Generador de Apuestas Euromillones Y Primitiva en Python
 
-Visitad el Canal de Telegram dónde se publican las combinaciones para ambos sorteos:
+Visitad el Canal de Telegram (https://t.me/raspiapuestas) dónde se publican las combinaciones para ambos sorteos:
 - Euromillones: Se generan 5 combinaciones de números los lunes y jueves para el sorteo del martes y viernes.
 - Primitiva: Se generan 5 combinaciones de números los miércoles y viernes par ael sorteo del jueves y sábado.
 
