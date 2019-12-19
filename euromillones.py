@@ -3,7 +3,7 @@
 
 # Importamos la librería necesaria para hacer una consulta HTTP y utilizar JSON
 import requests
-
+#Importamos la librería para hacer Random
 import random
 
 #Definicion probabilidades numeros y estrellas mediante matrices
