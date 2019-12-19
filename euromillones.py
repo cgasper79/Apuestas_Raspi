@@ -72,6 +72,6 @@ print('Estrellas:',rep_est)
 
 
  #Enviamos POST a WebHook con los números y las estrellas de la EUROMILLONES
-url = "https://maker.ifttt.com/trigger/apuestas/with/key/dhF38W2gCVDFXS-3iP6Lwr"
+url = "https://maker.ifttt.com/trigger/[INTRODUCE_NOM_EVENTO]/with/key/[INTRODUCE_TU_KEY]"
 post_fields = { "value1" :rep_num, "value2" :rep_est, "value3" : "" }
 request = requests.post(url,json=post_fields)
