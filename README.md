@@ -9,6 +9,7 @@ Estos dos programas en Python generan apuestas para la Euromillones y la Primiti
 Los históricos los podéis encontrar en:
 
 https://www.lotoideas.com/euromillones-resultados-historicos-de-todos-los-sorteos/
+
 https://www.lotoideas.com/primitiva-resultados-historicos-de-todos-los-sorteos/
 
 La probabilidad de cada número se calcula en los archivos excel Historico_Euro_Prob.xlsx y Historico_Primi_Prob.xlsx, con esta probabilidad conseguimos que se almacenan repetidos los numeros en cada matriz. De este modo, por ejemplo, el 1 estará 50 veces en la lista y el 8, 40 veces repetido.
